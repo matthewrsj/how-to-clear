@@ -2,6 +2,9 @@
 How To Clear - Scope of this training
 =====================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## Aim and scope of this training
 
 The goal of this training is to cover most of the technology used to

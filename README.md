@@ -2,6 +2,9 @@
 How to Clear
 ============
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What is this?
 
 This project contains documents that describe how to create a Clear

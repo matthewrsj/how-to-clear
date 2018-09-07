@@ -2,6 +2,9 @@
 How To Clear - QA and testing Clear update content
 ==================================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What you'll learn in this chapter
 
 * Build time tests concepts

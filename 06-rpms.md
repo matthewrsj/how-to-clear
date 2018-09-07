@@ -2,6 +2,9 @@
 How To Clear - Creating and mixing custom RPMs
 ==============================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What you'll learn in this chapter
 
 * Modifying a Clear Linux OS kernel RPM

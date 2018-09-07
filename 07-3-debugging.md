@@ -2,6 +2,9 @@
 How To Clear - Debugging applications in Clear Linux OS
 =======================================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What you'll learn in this chapter
 
 * Special debug file system concepts for Clear Linux OS

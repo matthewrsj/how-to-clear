@@ -2,6 +2,9 @@
 How To Clear - Clear Linux distribution concepts
 ================================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What this document explains
 
 In the training, we will use the Clear Linux OS Team vocabulary to

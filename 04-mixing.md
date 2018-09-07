@@ -2,6 +2,10 @@
 How To Clear - Mixing content and creating updates
 ==================================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation/clear-linux/guides/maintenance/mixer](mixer
+documentation).
+
 ## What you'll learn in this chapter
 
 * Initializing a new content stream

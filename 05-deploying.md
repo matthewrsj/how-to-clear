@@ -2,6 +2,9 @@
 How To Clear - Deploying updates to a target
 ============================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What you'll learn in this chapter
 
 * Creating an update content server

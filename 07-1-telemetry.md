@@ -2,6 +2,9 @@
 How To Clear - Clear Linux OS telemetry
 =======================================
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## What you'll learn in this chapter
 
 * Ground rules of telemetry, privacy, opt-in

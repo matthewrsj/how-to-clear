@@ -2,6 +2,9 @@
 How To Clear
 ============
 
+For official documentation on these topics please see
+[https://clearlinux.org/documentation](clearlinux.org/documentation).
+
 ## Table of Contents
 
  1.  [Index](01-index.md)
